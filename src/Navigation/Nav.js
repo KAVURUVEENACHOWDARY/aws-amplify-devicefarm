@@ -24,6 +24,9 @@ const Nav = ({ handleInputChange, query }) => {
         <a href="">
           <AiOutlineUserAdd className="nav-icons" />
         </a>
+        <a href="">
+          <AiOutlineUserAdd className="nav-icons" />
+        </a>
       </div>
     </nav>
   );
